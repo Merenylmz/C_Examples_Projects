@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <unistd.h>
+
+int main(int argc, char *argv[]) {
+    
+    int array[2][2];
+
+    array[0][0] = 10;
+    array[0][1] = 20;
+    array[1][0] = 30;
+    array[1][1] = 40;
+
+    
+
+    
+    return 0;
+}
