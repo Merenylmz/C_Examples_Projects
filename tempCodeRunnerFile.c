@@ -1,0 +1,1 @@
+file = fopen("C:\\Users\\M.Eren YILMAZ\\Desktop\\deneme.txt", "w");
